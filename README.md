@@ -14,3 +14,5 @@ hipchat-emoticons
 
 ![binna](src/binna.gif) (binna)
 
+![nocheese](src/nocheese.gif) (nocheese)
+
