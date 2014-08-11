@@ -16,3 +16,5 @@ hipchat-emoticons
 
 ![nocheese](src/nocheese.gif) (nocheese)
 
+![kanye](src/kanye.gif) (kanye)
+
