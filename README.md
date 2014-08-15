@@ -8,7 +8,7 @@ hipchat-emoticons
 
 ![trex](src/trex.gif) (trex)
 
-![donkey](src/donkey.gif) (donkey)
+![donkey](src/donkey.png) (donkey)
 
 ![penguin](src/penguin.gif) (penguin)
 
