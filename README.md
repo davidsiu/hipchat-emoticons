@@ -18,3 +18,8 @@ hipchat-emoticons
 
 ![kanye](src/kanye.gif) (kanye)
 
+![carlton](src/carlton.gif) (carlton)
+
+
+
+
