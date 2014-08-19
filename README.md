@@ -20,6 +20,6 @@ hipchat-emoticons
 
 ![carlton](src/carlton.gif) (carlton)
 
-
+![bananas](src/bananas.gif) (bananas)
 
 
