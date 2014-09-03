@@ -22,4 +22,11 @@ hipchat-emoticons
 
 ![bananas](src/bananas.gif) (bananas)
 
+![tomorrow](src/tomorrow.gif) (tomorrow)
+
+![nerf](src/nerf.gif) (nerf)
+
+![fancy](src/fancy.gif) (fancy)
+
+![makeitso](src/makeitso.gif) (makeitso)
 
