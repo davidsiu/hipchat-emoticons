@@ -30,3 +30,5 @@ hipchat-emoticons
 
 ![makeitso](src/makeitso.gif) (makeitso)
 
+![chemex](src/chemex.gif) (chemex)
+
