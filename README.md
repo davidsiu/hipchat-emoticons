@@ -32,3 +32,5 @@ hipchat-emoticons
 
 ![chemex](src/chemex.gif) (chemex)
 
+![hadouken](src/hadouken.gif) (hadouken)
+
