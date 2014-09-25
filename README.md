@@ -34,3 +34,5 @@ hipchat-emoticons
 
 ![hadouken](src/hadouken.gif) (hadouken)
 
+![fubar](src/fubar.gif) (fubar)
+
