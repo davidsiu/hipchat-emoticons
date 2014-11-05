@@ -36,3 +36,48 @@ hipchat-emoticons
 
 ![fubar](src/fubar.gif) (fubar)
 
+![ambulance](src/ambulance.gif) (ambulance)
+
+![bacon](src/bacon.png) (bacon)
+
+![brb](src/brb.png) (brb)
+
+![crying](src/crying.gif) (crying)
+
+![unicorn](src/unicorn.png) (unicorn)
+
+![nyancat](src/nyancat.gif) (nyancat)
+
+![bug](src/bug.gif) (bug)
+
+![puke](src/puke.gif) (puke)
+
+![heartbeat](src/heartbeat.gif) (heartbeat)
+
+![dude](src/dude.png) (dude)
+
+![tumbleweed](src/tumbleweed.gif) (tumbleweed)
+
+![emo](src/emo.gif) (emo)
+
+![doge](src/doge.gif) (doge)
+
+![shipitgood](src/shipitgood.png) (shipitgood)
+
+![bandit](src/bandit.gif) (bandit)
+
+![dolpin](src/dolphin.png) (dolphin)
+
+![nyan](src/nyan.gif) ![cat](src/cat.gif) (nyan)(cat)
+
+![inbread](src/inbread.gif) (inbread)
+
+![octocat](src/octocat.png) (octocat)
+
+![metal](src/metal.png) (metal)
+
+![n](src/n.png) (n)
+
+![y](src/y.png) (y)
+
+![sushi](src/sushi.png) (sushi)
