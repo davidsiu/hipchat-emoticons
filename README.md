@@ -36,3 +36,28 @@ hipchat-emoticons
 
 ![fubar](src/fubar.gif) (fubar)
 
+![bacon](src/bacon.png) (bacon)
+
+![unicorn](src/unicorn.png) (unicorn)
+
+![nyancat](src/nyancat.gif) (nyancat)
+
+![bug](src/bug.gif) (bug)
+
+![puke](src/puke.gif) (puke)
+
+![dude](src/dude.png) (dude)
+
+![tumbleweed](src/tumbleweed.gif) (tumbleweed)
+
+![emo](src/emo.gif) (emo)
+
+![shipitgood](src/shipitgood.png) (shipitgood)
+
+![dolpin](src/dolphin.png) (dolphin)
+
+![octocat](src/octocat.png) (octocat)
+
+![metal](src/metal.png) (metal)
+
+![sushi](src/sushi.png) (sushi)
