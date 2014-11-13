@@ -26,6 +26,12 @@ hipchat-emoticons
 
 ![nerf](src/nerf.gif) (nerf)
 
+![groovy](src/groovy.png) (groovy)
+
+![boomstick](src/boomstick.png) (boomstick)
+
+![banghead](src/banghead.gif) (banghead)
+
 ![fancy](src/fancy.gif) (fancy)
 
 ![makeitso](src/makeitso.gif) (makeitso)
