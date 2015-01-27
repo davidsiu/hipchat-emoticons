@@ -42,3 +42,5 @@ hipchat-emoticons
 
 ![fubar](src/fubar.gif) (fubar)
 
+![jake](src/jake.gif) (jake)
+
