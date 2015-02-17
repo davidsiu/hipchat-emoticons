@@ -44,3 +44,4 @@ hipchat-emoticons
 
 ![jake](src/jake.gif) (jake)
 
+![bloodymary](src/bloodymary.png) (bloodymary)
