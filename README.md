@@ -42,3 +42,4 @@ hipchat-emoticons
 
 ![fubar](src/fubar.gif) (fubar)
 
+![bloodymary](src/bloodymary.png) (bloodymary)
