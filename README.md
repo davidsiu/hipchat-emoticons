@@ -47,3 +47,5 @@ hipchat-emoticons
 ![bloodymary](src/bloodymary.png) (bloodymary)
 
 ![sadpanda](src/sadpanda.png) (sadpanda)
+
+![ohyeah](src/ohyeah.gif) (ohyeah)
