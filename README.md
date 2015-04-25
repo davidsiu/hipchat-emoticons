@@ -48,6 +48,6 @@ hipchat-emoticons
 
 ![sadpanda](src/sadpanda.png) (sadpanda)
 
-![dropmic](src/dropmic.png) (dropmic)
+![dropmic](src/dropmic.gif) (dropmic)
 
-![eyeroll](src/eyeroll.png) (eyeroll)
+![eyeroll](src/eyeroll.gif) (eyeroll)
