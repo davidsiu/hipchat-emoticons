@@ -51,3 +51,6 @@ hipchat-emoticons
 ![dropmic](src/dropmic.gif) (dropmic)
 
 ![eyeroll](src/eyeroll.gif) (eyeroll)
+
+![nowheat](src/nowheat.gif) (nowheat)
+
