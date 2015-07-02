@@ -53,3 +53,5 @@ hipchat-emoticons
 ![eyeroll](src/eyeroll.gif) (eyeroll)
 
 ![nowheat](src/nowheat.gif) (nowheat)
+
+![comply](src/comply.png) (comply)
