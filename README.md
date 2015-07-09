@@ -55,3 +55,6 @@ hipchat-emoticons
 ![nowheat](src/nowheat.gif) (nowheat)
 
 ![comply](src/comply.png) (comply)
+
+![affogato](src/affogato.gif) (affogato)
+
