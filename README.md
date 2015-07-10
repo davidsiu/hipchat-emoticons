@@ -58,3 +58,6 @@ hipchat-emoticons
 
 ![affogato](src/affogato.gif) (affogato)
 
+![sriracha](src/sriracha.gif) (sriracha)
+
+
