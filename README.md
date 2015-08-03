@@ -60,4 +60,5 @@ hipchat-emoticons
 
 ![sriracha](src/sriracha.gif) (sriracha)
 
+![hammertime](src/hammertime.gif) (hammertime)
 
