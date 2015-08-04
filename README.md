@@ -62,3 +62,5 @@ hipchat-emoticons
 
 ![hammertime](src/hammertime.gif) (hammertime)
 
+![dynamite](src/dynamite.gif) (dynamite)
+
