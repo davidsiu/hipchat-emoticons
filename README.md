@@ -64,3 +64,4 @@ hipchat-emoticons
 
 ![dynamite](src/dynamite.gif) (dynamite)
 
+![tmyn](src/tmyn.gif) (the more you know)
