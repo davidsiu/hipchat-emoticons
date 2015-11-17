@@ -64,3 +64,4 @@ hipchat-emoticons
 
 ![dynamite](src/dynamite.gif) (dynamite)
 
+![squee](src/squee.gif) (squee)
