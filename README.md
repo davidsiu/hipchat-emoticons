@@ -67,3 +67,5 @@ hipchat-emoticons
 ![squee](src/squee.gif) (squee)
 
 ![foos] (src/foos.png) (foos)
+
+![woohoo] (src/woohoo.png) (woohoo)
