@@ -69,3 +69,5 @@ hipchat-emoticons
 ![foos] (src/foos.png) (foos)
 
 ![woohoo] (src/woohoo.png) (woohoo)
+
+![katie] (src/katie.png) (katie)
