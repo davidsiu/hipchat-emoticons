@@ -71,3 +71,5 @@ hipchat-emoticons
 ![woohoo] (src/woohoo.png) (woohoo)
 
 ![katie] (src/katie.png) (katie)
+
+![bigdata] (src/bigdata.png) (bigdata)
