@@ -66,10 +66,12 @@ hipchat-emoticons
 
 ![squee](src/squee.gif) (squee)
 
-![foos] (src/foos.png) (foos)
+![foos](src/foos.png) (foos)
 
-![woohoo] (src/woohoo.png) (woohoo)
+![woohoo](src/woohoo.png) (woohoo)
 
-![katie] (src/katie.png) (katie)
+![katie](src/katie.png) (katie)
 
-![bigdata] (src/bigdata.png) (bigdata)
+![bigdata](src/bigdata.png) (bigdata)
+
+![sick](src/sick.png) (sick)
